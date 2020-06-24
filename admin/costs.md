@@ -65,6 +65,11 @@ Meeting
 Anniversary Date
 :11/02/2014
 
+####First Aid budget
+
+: $600 annual budget for either refitting or replacing our first aid kits on a 3-6 monthly basis.
+Voted in General Meeting on 2019/11/12
+
 ##### Notes
 
 * mowing
